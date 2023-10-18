@@ -1,0 +1,3 @@
+//https://api.cdnjs.com/libraries
+
+{"results":[{"name":"1140","latest":"https://cdnjs.cloudflare.com/ajax/libs/1140/2.0/1140.min.css"},{"name":"1000hz-bootstrap-validator","latest":"https://cdnjs.cloudflare.com/ajax/libs/1000hz-bootstrap-validator/0.11.6/validator.min.js"},{"name":"10up-sanitize.css","latest":"https://cdnjs.cloudflare.com/ajax/libs/10up-sanitize.css/4.1.0/sanitize.min.css"},{"name":"16pixels","latest":"https://cdnjs.cloudflare.com/ajax/libs/16pixels/0.1.8/16pixels.min.css"},

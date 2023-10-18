@@ -1,0 +1,15 @@
+pritiffy
+jquery.timeago.fr.js
+jquery.livequery.min.js
+file API
+AlertifyJs
+http://t4t5.github.io/sweetalert/
+https://github.com/t4t5/sweetalert/archive/master.zip
+
+CRÉER UN RÉSEAU SOCIAL POUR DÉVELOPPEURS EN PHP - 75 - Publication automatique de micropost
+
+class="avatar-xd" style="background-image:url(<?=Router::webroot('img/face/Abonnement.jpg');?>);
+	background-repeat:no-repeat;"
+
+
+	0329463882
